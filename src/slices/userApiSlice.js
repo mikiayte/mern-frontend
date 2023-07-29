@@ -1,6 +1,6 @@
 import { apiSlice } from "./apiSlice";
 
-const USERS_URL= 'https://mern-task-app-api-tbln.onrender.com/api/users';
+const USERS_URL= 'https://mern-test-ghkw.onrender.com/api/users';
 
 export const usersApiSlice = apiSlice.injectEndpoints(
     {
